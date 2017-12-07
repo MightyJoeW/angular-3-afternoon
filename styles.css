@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Open+Sans|Merriweather+Sans');
+@import url("https://fonts.googleapis.com/css?family=Alfa+Slab+One|Open+Sans|Merriweather+Sans");
 
 body {
-  background-color:#08a4bd;
+  background-color: #08a4bd;
   min-height: 100vh;
   min-width: 100%;
 }
@@ -18,14 +18,14 @@ header {
   display: flex;
   align-items: center;
   box-sizing: border-box;
-  border-bottom: 1px solid #FFF;
+  border-bottom: 1px solid #fff;
   position: relative;
 }
 
 .header-content span {
-  font-family: 'Alfa Slab One', cursive;
+  font-family: "Alfa Slab One", cursive;
   font-size: 39px;
-  color: #FFF;
+  color: #fff;
   margin-left: 20px;
   margin-right: 32px;
 }
@@ -35,11 +35,11 @@ header {
   border: none;
   background-color: rgba(255, 255, 255, 0.3);
   margin-right: 20px;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: "Merriweather Sans", sans-serif;
   font-size: 18px;
   font-weight: bold;
   padding: 13px;
-  color: #FFF;
+  color: #fff;
   cursor: pointer;
 }
 
@@ -48,11 +48,11 @@ header {
   border: none;
   background-color: rgba(255, 255, 255, 0.3);
   margin-right: 20px;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: "Merriweather Sans", sans-serif;
   font-size: 18px;
   font-weight: bold;
   padding: 16px;
-  color: #FFF;
+  color: #fff;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -63,10 +63,10 @@ header {
 
 .cart-icon {
   width: 22px;
-	height: 16px;
+  height: 16px;
 }
 
 .view-container {
-  background-image: linear-gradient(to top, rgba(56, 95, 255, 0.0), #446df6);
+  background-image: linear-gradient(to top, rgba(56, 95, 255, 0), #446df6);
   height: 473px;
 }
